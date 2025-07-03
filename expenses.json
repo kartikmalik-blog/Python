@@ -1,14 +1,14 @@
 [
     {
-        "amount": 5000.0,
-        "category": "grocery",
-        "description": "it is needed monthly",
-        "date": "2025:06:29"
+        "amount": 100,
+        "category": "food"
     },
     {
-        "amount": 6000.0,
-        "category": "wifi",
-        "description": "monthly bill",
-        "date": "2025:06:29"
+        "amount": 50,
+        "category": "transport"
+    },
+    {
+        "amount": 200,
+        "category": "food"
     }
 ]
