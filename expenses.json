@@ -4,11 +4,15 @@
         "category": "food"
     },
     {
-        "amount": 50,
-        "category": "transport"
+        "amount": 200,
+        "category": "Transport"
     },
     {
-        "amount": 200,
-        "category": "food"
+        "amount": 300,
+        "category": "Rent"
+    },
+    {
+        "amount": 400,
+        "category": "Semester Contribution"
     }
 ]
