@@ -5,14 +5,14 @@
     },
     {
         "amount": 200,
-        "category": "Transport"
-    },
-    {
-        "amount": 300,
         "category": "Rent"
     },
     {
-        "amount": 400,
-        "category": "Semester Contribution"
+        "amount": 300,
+        "category": "semester contribution"
+    },
+    {
+        "amount": 150,
+        "category": "entertaiment"
     }
 ]
